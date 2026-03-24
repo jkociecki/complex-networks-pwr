@@ -3,3 +3,6 @@
 *.pdf
 *.csv
 *.edges 
+lab02/reportsto.tab
+lab02/communication.tab
+lab02/example_spread_config.json
